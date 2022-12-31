@@ -3,7 +3,7 @@ This repo for project UTS and others.
 
 1. Landing Page Toko Alat Olahraga:
 
-  - Bootstrap 5.2 Framework CSS
+  - Bootstrap 5.2.3 Framework CSS
   - AOS Library
   - Java Script
   - and Others
