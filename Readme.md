@@ -8,4 +8,4 @@ This repo for project UTS and others.
   - Java Script
   - and Others
   
-  LinkedIn : https://www.linkedin.com/posts/muhammad-rofi-ul-arham_group-practice-with-trainer-activity-7002984017734103041-aAd1?utm_source=share&utm_medium=member_desktop
+  LinkedIn : https://www.linkedin.com/posts/muhammad-rofi-ul-arham_group-practice-with-trainer-activity-7002984017734103041-DbTA?utm_source=share&utm_medium=member_desktop
